@@ -1,4 +1,6 @@
 <div>
+ <h1>Olá</h1>
+
   <div>
   <a href="https://github.com/Nicolas-VM">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nicolas-VM&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
@@ -21,6 +23,6 @@
   
   <a href="" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/Nicolas-VM/Nicolas-VM/blob/output/github-contribution-grid-snake.svg)
+
 
 </div>
